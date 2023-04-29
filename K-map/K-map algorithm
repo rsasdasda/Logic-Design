@@ -1,0 +1,7 @@
+## 1. Description
+This assignment is to let students know how to automate the process taught on textbook
+by writing a program of K-map.
+This program should be able to handle 2~4 variables.
+The prime implicants and the essential prime implicants of the K-map should be
+indicated.
+This program should also show the minimum SOP (Sum of Product).
